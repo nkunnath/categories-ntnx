@@ -10,6 +10,8 @@ It is strongly recommended to run this script within a virtual environment and i
 Run in Terminal/Command Prompt:
 
 ```
+git clone https://github.com/nkunnath/categories-ntnx.git
+cd categories-ntnx/
 python -m pip install virtualenv
 python -m virtualenv venv
 ```
